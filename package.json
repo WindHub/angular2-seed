@@ -33,6 +33,7 @@
     "es6-promise": "^3.1.2",
     "es6-shim": "^0.35.0",
     "gulp": "^3.9.1",
+    "gulp-rename": "^1.2.2",
     "gulp-util": "^3.0.7",
     "jasmine-core": "2.4.1",
     "reflect-metadata": "^0.1.3",
